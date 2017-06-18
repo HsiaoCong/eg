@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hsiao/PycharmProjects/tf/RNN_Text_classify/runs/checkpoints/model-127"
+all_model_checkpoint_paths: "/home/hsiao/PycharmProjects/tf/RNN_Text_classify/runs/checkpoints/model-127"
